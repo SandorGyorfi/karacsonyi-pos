@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karacsonyi-pos/static/css/main.a1e846c2.css",
+    "main.js": "/karacsonyi-pos/static/js/main.1f4f3dcd.js",
+    "static/js/488.3de7ee77.chunk.js": "/karacsonyi-pos/static/js/488.3de7ee77.chunk.js",
+    "index.html": "/karacsonyi-pos/index.html",
+    "main.a1e846c2.css.map": "/karacsonyi-pos/static/css/main.a1e846c2.css.map",
+    "main.1f4f3dcd.js.map": "/karacsonyi-pos/static/js/main.1f4f3dcd.js.map",
+    "488.3de7ee77.chunk.js.map": "/karacsonyi-pos/static/js/488.3de7ee77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1e846c2.css",
+    "static/js/main.1f4f3dcd.js"
+  ]
+}
